@@ -8,7 +8,7 @@ from pony.orm import *
 from datetime import datetime
 # import PIL
 # app = Flask(__name__)
-db_params = dict(provider='cockroach', user='rudransh', host='free-tier.gcp-us-central1.cockroachlabs.cloud', port=26257, database='shiny-wolf-1947.defaultdb', password = "rudranshsharma123")
+db_params = dict(provider='cockroach', user='rudransh', host='free-tier.gcp-us-central1.cockroachlabs.cloud', port=26257, database='shiny-wolf-1947.defaultdb', password = "**********your Passwor*****")
 
 
 app = Flask(__name__)
@@ -23,13 +23,13 @@ db = Database()
 class User(db.Entity):
     # def __init__(self, table,userid, password, )
     
-    _table_ = 'KILL'
+    _table_ = 'Users'
     user_id = PrimaryKey(str)
     password = Required(str)
     searchQ = Set('Search')
 
 class Search(db.Entity):
-  _table_ = 'ME'
+  _table_ = 'Searches'
   # id = PrimaryKey(int)
   user = Required('User')
   searchText = Required(str)
@@ -55,7 +55,7 @@ def create_user(userid, password):
 @db_session
 def test():
   from textblob import TextBlob
-  return str(TextBlob("hello baby how do you do").detect_language())
+  return str(TextBlob("tesing thsi lib").detect_language())
 
   return "added lol"
 
