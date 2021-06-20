@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "regal-oasis-293014",
+  "private_key_id": "33d83f3d575b283a47cf41eb73c9e37e792e9ac2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQZtrLUwsLvmtT\nJMI4R5RqWGuGIreVzEyCCbQJetrbovfS7CKeLoK3BJsvrugiWLnrLRsPcdtA3P/i\nNZMZ3epAeWcIGNc/pIFzlBRfH+Iwu8kygMAqbRmQ+4TNeEdBULvttW4wA46MYhQ2\nJrgji4/90VVe8y6eoWUrVl1//AVJ1ohLJpQCAaqHqt1MEkfC+raPmCf8xvlHzfaN\nXZFKZL7TyV61ZhntQUzkyYpVLpFyGGeNGGmOzFLr+kdG/x4Zjh2Dy++vx/gA5TOv\nO1LfOazypGWiqaIEd3Hlyj29Ww+eiez0sJCdwVVQg3MN4jLFbJR6hVFb8zY/UJ61\nHYJg1qQRAgMBAAECggEAEgrblaePgOFoHYtEyNZSoDfePD9QdVa6B3aTWJBDNyl3\navKAZ0E31iQ/Erxh8spLc1PFAFvvO2D+wsz4WrCSnakdDU+IQCVsAy9+aYNjQ+yY\nFUgeCvZF1L5fz6GiiqI0mPaAjwXZzyfVH+CPh91G9rarPVSQtFFdBsjcAK73Hr6c\nxLC7MyX9LzQ7C4SLibZ6dEWj7btxFNSp1oM23RF6t4WWhopcdVgwTrm/Je4P5W4y\nhFx4b9o8OjNx7yhMoSvXyS+YFiv8awsvOpFPQ60hT6RyISsrqW3srRh0g5r8TY0Q\nzauaikSVR8oufC8gyZ3lAD1jeWPwlMPxp10T9qbouQKBgQD9bzrZ6wxiabh9Z8F2\n1cABCot409YFv6TUM7WIssr40u8zjYurV7VcPAgdYjSrZBq44LGpYsyq5sKi9fdh\n0L3FFbXyDBD+VvU4Yxf3DxxLjqYDGhr4ysyQ5bCV+TNphfG5v8gIAcN0eoFaApKi\n1/wSSdnzyagoQMflzCkioT9FCQKBgQDSguxnLADYan7AWGFlFgnu9kEzDHoX77Kq\nm4ci1UY2GgPRJgrVYPK1dhFGbpk9Jtd5dtFAiEgugCubG4xFZxK0zHr9IwgoRrAQ\nVYbcA4hgEHBA0CLsoO9+n3uqe19HdQhT1vUrM6SEi4SwMBg7B9H+ibG+7+b4dpVh\nwRZJ7ynwyQKBgQCAMUk1fX1wMkXNuTPU5l4OqMTPw2dY1Q2NAPLsSHP+1MOF8i0Z\n6G2mT/9SzaASqboSliWHpqAcOkltoLkXUz0KeebknlHiNR4o/Ybbw1rupSM4InZO\nLla3XFesJLdqwwP4jxehZTL2shjH7NE7acDph02l0PUsF0iF5nVQPPwB8QKBgAbH\n3tOH8FMIQyLw9doqtpEy73C0gy5IM0oZjmXJ1uQhPGQ9RHYRFGBR+EZ7g4YbvS8V\na7IXcbPFvyHU5lTJ+ClIuOF0gmvBsyQjjR+DIZ5uiR8dVTKoEG7UtkgMh0om8+i3\ncNg+Zps6X0DJm84y90mqp8YNtjPkpfUrIgupn4E5AoGAFLWKunCeO+r+lXUpHl8A\nRx8ZgRtQ2efL1HntNhOb6ZvHtW4zTKSLFQN7qeIQeJ1pYY5dX4vYHZ5YsCn2R/Vh\nRT3T6/riuFKWjWP9y1qYgqhDDsiuv3LpkLNtlk/6fXuzF+E0sOhF68YbQ0Z4knwN\nqjyZBsR/Kg7oZAgI2r0SBvc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@regal-oasis-293014.iam.gserviceaccount.com",
+  "client_id": "116161270426281283630",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40regal-oasis-293014.iam.gserviceaccount.com"
+}
