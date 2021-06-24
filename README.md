@@ -1,4 +1,4 @@
-# Your Garden
+# Your Garden (Won Best use of Google Cloud)
  
 ## Inspiration
 I wanted to create an exclusive platform for gardening. Where people can get their questions answered in real-time with a bot trained only to handle their woes. I also wanted people to be able to see what plants they can have in their garden and which plants would look best with what they already have hence I created the companion app. The YourGardenAR app. Using this, you can see your plants in real-time and decide which ones to buy. The main app alongside the companion was made by keeping in mind the real problem of apartment dwellers. The people who want to own plants but can only own potted ones. 
